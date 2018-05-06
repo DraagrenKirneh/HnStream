@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "HnAbstractWriter",
+	"category" : "HnStream-Writing",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"writer"
+	],
+	"name" : "HnDecoratorWriter",
+	"type" : "normal"
+}

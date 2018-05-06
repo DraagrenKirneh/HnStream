@@ -1,0 +1,25 @@
+{
+	"instance" : {
+		"next" : "HenrikNergaard 7/2/2017 17:01",
+		"close" : "HenrikNergaard 7/23/2017 13:48",
+		"peekFor:" : "HenrikNergaard 8/26/2017 09:34",
+		"atStart" : "HenrikNergaard 6/29/2017 23:32",
+		"peek" : "HenrikNergaard 6/29/2017 23:41",
+		"on:" : "HenrikNergaard 7/2/2017 17:01",
+		"atEnd" : "HenrikNergaard 6/29/2017 23:32",
+		"postCopy" : "HenrikNergaard 7/24/2017 21:47",
+		"setTo:" : "HenrikNergaard 12/29/2017 18:34",
+		"skip" : "HenrikNergaard 7/13/2017 21:30",
+		"skip:" : "HenrikNergaard 8/6/2017 20:28",
+		"upToEnd" : "HenrikNergaard 7/2/2017 17:02",
+		"reader:" : "HenrikNergaard 12/28/2017 17:08",
+		"reset" : "HenrikNergaard 6/29/2017 23:42",
+		"startingAt:between:and:explore:" : "HenrikNergaard 12/28/2017 17:15",
+		"next:" : "HenrikNergaard 7/2/2017 17:02",
+		"setToStart" : "HenrikNergaard 12/29/2017 18:22"
+	},
+	"class" : {
+		"on:" : "HenrikNergaard 7/2/2017 17:00",
+		"wrapping:" : "HenrikNergaard 7/23/2017 22:18"
+	}
+}

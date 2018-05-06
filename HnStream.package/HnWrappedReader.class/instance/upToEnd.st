@@ -1,0 +1,4 @@
+fetching
+upToEnd
+
+	^ reader upToEnd 

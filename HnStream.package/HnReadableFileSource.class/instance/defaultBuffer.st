@@ -1,0 +1,4 @@
+private
+defaultBuffer
+
+	^ HnOffsetBuffer empty

@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "HnOffsetBuffer",
+	"category" : "HnStream-exp",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"count"
+	],
+	"name" : "HnWriteOffsetBuffer",
+	"type" : "normal"
+}

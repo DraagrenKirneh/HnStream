@@ -1,0 +1,4 @@
+streaming
+<< anObject
+
+	writer << anObject 

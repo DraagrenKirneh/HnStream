@@ -1,0 +1,1 @@
+abstract reader for methods expected to be implemented by a reader

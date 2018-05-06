@@ -1,0 +1,1 @@
+Abstract Error type for all errors related to both reading and writing from streams

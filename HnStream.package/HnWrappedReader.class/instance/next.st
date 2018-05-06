@@ -1,0 +1,4 @@
+fetching
+next
+
+	^ reader next

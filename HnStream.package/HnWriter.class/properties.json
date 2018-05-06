@@ -1,0 +1,16 @@
+{
+	"commentStamp" : "",
+	"super" : "HnAbstractWriter",
+	"category" : "HnStream-Writing",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"position",
+		"end",
+		"limit",
+		"destination"
+	],
+	"name" : "HnWriter",
+	"type" : "normal"
+}

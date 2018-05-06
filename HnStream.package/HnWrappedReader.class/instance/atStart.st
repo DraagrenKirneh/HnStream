@@ -1,0 +1,4 @@
+accessing
+atStart
+
+	^ reader atStart 

@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "HnStreamError",
+	"category" : "HnStream-Errors",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "HnWriteLimitReached",
+	"type" : "normal"
+}

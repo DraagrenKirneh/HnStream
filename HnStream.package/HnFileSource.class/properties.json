@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "HnStream-exp",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"handle",
+		"buffer",
+		"bufferSize"
+	],
+	"name" : "HnFileSource",
+	"type" : "normal"
+}

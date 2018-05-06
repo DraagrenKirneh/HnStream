@@ -1,0 +1,1 @@
+Decorated reader for spesific types

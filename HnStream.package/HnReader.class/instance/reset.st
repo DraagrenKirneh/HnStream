@@ -1,0 +1,4 @@
+streaming
+reset
+
+	position := start

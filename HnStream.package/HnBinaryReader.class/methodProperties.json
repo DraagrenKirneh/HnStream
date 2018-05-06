@@ -1,0 +1,19 @@
+{
+	"instance" : {
+		"uint16" : "HenrikNergaard 6/29/2017 23:45",
+		"uint24" : "HenrikNergaard 6/29/2017 23:45",
+		"int32" : "HenrikNergaard 7/2/2017 21:27",
+		"float64" : "HenrikNergaard 7/16/2017 13:17",
+		"float32" : "HenrikNergaard 7/1/2017 13:34",
+		"readIntBytes:" : "HenrikNergaard 7/3/2017 19:49",
+		"uint8" : "HenrikNergaard 7/9/2017 13:55",
+		"boolean" : "HenrikNergaard 6/29/2017 23:43",
+		"uint32" : "HenrikNergaard 6/29/2017 23:45",
+		"readUintBytes:" : "HenrikNergaard 7/7/2017 21:56",
+		"int8" : "HenrikNergaard 7/9/2017 13:55",
+		"int16" : "HenrikNergaard 7/3/2017 19:47",
+		"asUtf8Reader" : "HenrikNergaard 12/28/2017 17:29",
+		"int24" : "HenrikNergaard 7/7/2017 21:56"
+	},
+	"class" : { }
+}

@@ -1,0 +1,33 @@
+{
+	"instance" : {
+		"setToStart" : "HenrikNergaard 7/9/2017 13:34",
+		"close" : "HenrikNergaard 7/23/2017 13:48",
+		"skip" : "HenrikNergaard 7/2/2017 11:45",
+		"useNext:" : "HenrikNergaard 8/21/2017 20:42",
+		"untilEnd:" : "HenrikNergaard 6/29/2017 23:08",
+		"atStart" : "HenrikNergaard 6/29/2017 23:07",
+		"setTo:" : "HenrikNergaard 12/29/2017 18:23",
+		"next:" : "HenrikNergaard 6/29/2017 23:26",
+		"next" : "HenrikNergaard 6/29/2017 23:09",
+		"next:sliced:" : "HenrikNergaard 6/29/2017 23:19",
+		"peekFor:" : "HenrikNergaard 6/29/2017 23:40",
+		"setToEnd" : "HenrikNergaard 7/9/2017 13:34",
+		"postCopy" : "HenrikNergaard 7/9/2017 15:28",
+		"reset" : "HenrikNergaard 6/29/2017 23:15",
+		"explore:" : "HenrikNergaard 7/24/2017 21:16",
+		"readStream" : "HenrikNergaard 8/21/2017 21:32",
+		"do:" : "HenrikNergaard 6/29/2017 23:09",
+		"skip:" : "HenrikNergaard 6/29/2017 23:46",
+		"upToEnd" : "HenrikNergaard 7/2/2017 11:45",
+		"peekDo:" : "HenrikNergaard 8/5/2017 19:51",
+		"ensureContent" : "HenrikNergaard 7/9/2017 13:33",
+		"asSlice:" : "HenrikNergaard 7/1/2017 21:08",
+		"hnReadstream" : "HenrikNergaard 7/23/2017 22:19",
+		"atEnd" : "HenrikNergaard 6/29/2017 23:07",
+		"on:" : "HenrikNergaard 7/2/2017 17:00",
+		"peek" : "HenrikNergaard 6/29/2017 23:36"
+	},
+	"class" : {
+		"on:" : "HenrikNergaard 7/2/2017 17:01"
+	}
+}

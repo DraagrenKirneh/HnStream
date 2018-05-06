@@ -1,0 +1,4 @@
+peeking
+peek
+
+	self subclassResponsibility 

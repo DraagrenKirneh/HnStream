@@ -1,0 +1,1 @@
+I am an offset buffer that has an collection of elements and an offset index to keep track of a virtual position

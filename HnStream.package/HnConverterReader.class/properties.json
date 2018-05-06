@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "HnWrappedReader",
+	"category" : "HnStream-Reading",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"converter"
+	],
+	"name" : "HnConverterReader",
+	"type" : "normal"
+}

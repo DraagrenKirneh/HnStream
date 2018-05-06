@@ -1,0 +1,4 @@
+testing
+atStart
+
+	^ position = start 

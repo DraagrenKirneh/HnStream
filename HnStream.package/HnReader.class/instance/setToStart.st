@@ -1,0 +1,4 @@
+accessing
+setToStart
+
+	position := start

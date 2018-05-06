@@ -1,0 +1,21 @@
+{
+	"instance" : {
+		"testNextOnString" : "HenrikNergaard 7/1/2017 21:00",
+		"initReaderOn:" : "HenrikNergaard 7/1/2017 14:04",
+		"testReadLine2" : "HenrikNergaard 7/2/2017 17:03",
+		"assertNextEquals:" : "HenrikNergaard 7/16/2017 14:03",
+		"testCustomExplore" : "HenrikNergaard 12/28/2017 17:16",
+		"testPeek" : "HenrikNergaard 7/1/2017 20:14",
+		"testUpToEnd" : "HenrikNergaard 7/2/2017 11:39",
+		"assertAtEnd" : "HenrikNergaard 7/16/2017 14:03",
+		"testReadLine1" : "HenrikNergaard 7/2/2017 16:59",
+		"testutf8" : "HenrikNergaard 7/30/2017 23:06",
+		"testOneElement" : "HenrikNergaard 7/1/2017 14:06",
+		"testEmpty" : "HenrikNergaard 7/1/2017 14:05",
+		"testExplore" : "HenrikNergaard 7/24/2017 21:16",
+		"testReadLine3" : "HenrikNergaard 7/2/2017 17:04",
+		"testReadPastEnd" : "HenrikNergaard 7/15/2017 16:28",
+		"testReadCollection" : "HenrikNergaard 7/16/2017 14:04"
+	},
+	"class" : { }
+}

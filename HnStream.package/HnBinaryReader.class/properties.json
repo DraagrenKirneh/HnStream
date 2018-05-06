@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "HenrikNergaard 7/7/2017 22:01",
+	"super" : "HnWrappedReader",
+	"category" : "HnStream-Reading",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "HnBinaryReader",
+	"type" : "normal"
+}
