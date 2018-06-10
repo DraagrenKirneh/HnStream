@@ -1,7 +1,7 @@
 {
 	"commentStamp" : "",
 	"super" : "Object",
-	"category" : "HnStream-exp",
+	"category" : "HnStream-File",
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],

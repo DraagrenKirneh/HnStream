@@ -1,10 +1,10 @@
 accessing
 at: aPosition ifAbsent: aBlock
 
-	| ix |
+	| index |
 	
-	ix := aPosition - offset .
+	index := aPosition - offset.
 	
-	^ (ix between: 1 and: buffer size)
-			ifTrue: [ buffer at: ix ]
+	^ (index between: 1 and: buffer size)
+			ifTrue: [ buffer at: index ]
 			ifFalse: [ aBlock value ]

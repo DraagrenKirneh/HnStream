@@ -1,7 +1,7 @@
 {
-	"commentStamp" : "",
+	"commentStamp" : "HenrikNergaard 6/10/2018 20:20",
 	"super" : "HnOffsetBuffer",
-	"category" : "HnStream-exp",
+	"category" : "HnStream-File",
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],
