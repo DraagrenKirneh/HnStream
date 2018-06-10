@@ -1,11 +1,11 @@
 {
 	"instance" : {
-		"primRead:into:startingAt:count:" : "HenrikNergaard 12/28/2017 18:00",
 		"at:" : "HenrikNergaard 12/28/2017 17:59",
 		"defaultBuffer" : "HenrikNergaard 12/28/2017 18:05",
-		"hnReadstream" : "HenrikNergaard 12/28/2017 18:00",
 		"fetchFrom:" : "HenrikNergaard 12/29/2017 21:09",
-		"initialize" : "HenrikNergaard 12/28/2017 18:06"
+		"hnReadstream" : "HenrikNergaard 12/28/2017 18:00",
+		"initialize" : "HenrikNergaard 12/28/2017 18:06",
+		"primRead:into:startingAt:count:" : "HenrikNergaard 12/28/2017 18:00"
 	},
 	"class" : {
 		"fileNamed:" : "HenrikNergaard 12/28/2017 18:32",

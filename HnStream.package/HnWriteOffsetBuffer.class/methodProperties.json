@@ -1,12 +1,12 @@
 {
 	"instance" : {
-		"rollover" : "HenrikNergaard 12/28/2017 18:15",
 		"at:put:ifFailed:" : "HenrikNergaard 12/28/2017 18:34",
-		"initialize" : "HenrikNergaard 12/28/2017 18:14",
 		"count" : "HenrikNergaard 12/28/2017 18:38",
+		"data" : "HenrikNergaard 12/28/2017 18:10",
+		"initialize" : "HenrikNergaard 12/28/2017 18:14",
 		"isFull" : "HenrikNergaard 12/28/2017 18:14",
 		"offset" : "HenrikNergaard 12/28/2017 18:10",
-		"data" : "HenrikNergaard 12/28/2017 18:10"
+		"rollover" : "HenrikNergaard 12/28/2017 18:15"
 	},
 	"class" : { }
 }

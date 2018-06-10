@@ -1,17 +1,19 @@
 {
 	"instance" : {
-		"int24:" : "HenrikNergaard 7/15/2017 16:37",
-		"int16:" : "HenrikNergaard 7/15/2017 16:37",
 		"boolean:" : "HenrikNergaard 7/15/2017 16:38",
-		"uint64:" : "HenrikNergaard 12/28/2017 16:56",
+		"float32:" : "HenrikNergaard 7/16/2017 13:32",
+		"float64:" : "HenrikNergaard 7/16/2017 13:32",
+		"int16:" : "HenrikNergaard 7/15/2017 16:37",
+		"int24:" : "HenrikNergaard 7/15/2017 16:37",
+		"int32:" : "HenrikNergaard 7/15/2017 16:37",
+		"int64:" : "HenrikNergaard 5/21/2018 08:32",
+		"int8:" : "HenrikNergaard 5/21/2018 10:09",
 		"uint16:" : "HenrikNergaard 7/15/2017 16:37",
 		"uint24:" : "HenrikNergaard 7/15/2017 16:37",
 		"uint32:" : "HenrikNergaard 7/15/2017 16:37",
-		"int8:" : "HenrikNergaard 7/15/2017 16:38",
+		"uint64:" : "HenrikNergaard 12/28/2017 16:56",
 		"uint8:" : "HenrikNergaard 7/15/2017 16:38",
-		"float64:" : "HenrikNergaard 7/16/2017 13:32",
-		"float32:" : "HenrikNergaard 7/16/2017 13:32",
-		"int32:" : "HenrikNergaard 7/15/2017 16:37"
+		"variableInteger:" : "HenrikNergaard 5/21/2018 10:09"
 	},
 	"class" : { }
 }

@@ -8,7 +8,7 @@ int8: anInteger
 	].
 
 	uint := anInteger < 0 
-		ifTrue: [ 16r100000000 + anInteger  ]
+		ifTrue: [ 16r100 + anInteger  ]
 		ifFalse: [ anInteger ].
 		
 	self uint8: uint	

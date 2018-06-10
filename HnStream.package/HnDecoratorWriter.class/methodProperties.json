@@ -1,13 +1,13 @@
 {
 	"instance" : {
-		"on:" : "HenrikNergaard 7/2/2017 13:20",
-		"next:putAll:startingAt:" : "HenrikNergaard 7/2/2017 12:43",
-		"putAll:" : "HenrikNergaard 7/2/2017 13:25",
-		"close" : "HenrikNergaard 12/28/2017 18:35",
-		"reset" : "HenrikNergaard 7/2/2017 13:25",
-		"put:" : "HenrikNergaard 7/2/2017 12:42",
 		"<<" : "HenrikNergaard 7/2/2017 12:42",
-		"contents" : "HenrikNergaard 7/2/2017 13:20"
+		"close" : "HenrikNergaard 12/28/2017 18:35",
+		"contents" : "HenrikNergaard 7/2/2017 13:20",
+		"next:putAll:startingAt:" : "HenrikNergaard 7/2/2017 12:43",
+		"on:" : "HenrikNergaard 7/2/2017 13:20",
+		"put:" : "HenrikNergaard 7/2/2017 12:42",
+		"putAll:" : "HenrikNergaard 7/2/2017 13:25",
+		"reset" : "HenrikNergaard 7/2/2017 13:25"
 	},
 	"class" : { }
 }

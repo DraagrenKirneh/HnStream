@@ -2,14 +2,14 @@
 	"instance" : {
 		"converter:" : "HenrikNergaard 7/23/2017 15:31",
 		"next" : "HenrikNergaard 7/23/2017 22:05",
-		"upToEnd" : "HenrikNergaard 12/29/2017 20:48",
-		"skip" : "HenrikNergaard 7/23/2017 15:35",
-		"peekFor:" : "HenrikNergaard 8/26/2017 09:34",
-		"peek" : "HenrikNergaard 7/24/2017 21:17",
+		"next:" : "HenrikNergaard 7/23/2017 16:03",
 		"on:" : "HenrikNergaard 7/23/2017 15:34",
-		"skip:" : "HenrikNergaard 12/28/2017 17:19",
+		"peek" : "HenrikNergaard 7/24/2017 21:17",
+		"peekFor:" : "HenrikNergaard 8/26/2017 09:34",
 		"postCopy" : "HenrikNergaard 7/24/2017 21:47",
-		"next:" : "HenrikNergaard 7/23/2017 16:03"
+		"skip" : "HenrikNergaard 7/23/2017 15:35",
+		"skip:" : "HenrikNergaard 12/28/2017 17:19",
+		"upToEnd" : "HenrikNergaard 12/29/2017 20:48"
 	},
 	"class" : {
 		"utf8DecodeWrapping:" : "HenrikNergaard 12/28/2017 17:28"

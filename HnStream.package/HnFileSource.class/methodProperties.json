@@ -1,16 +1,16 @@
 {
 	"instance" : {
-		"defaultBufferSize" : "HenrikNergaard 7/23/2017 12:33",
 		"close" : "HenrikNergaard 12/28/2017 18:28",
-		"species" : "HenrikNergaard 7/23/2017 13:47",
+		"closed" : "HenrikNergaard 7/23/2017 12:37",
+		"defaultBuffer" : "HenrikNergaard 12/28/2017 18:04",
+		"defaultBufferSize" : "HenrikNergaard 7/23/2017 12:33",
 		"finalize" : "HenrikNergaard 12/28/2017 17:37",
 		"handle:" : "HenrikNergaard 12/28/2017 17:35",
-		"size" : "HenrikNergaard 7/23/2017 12:35",
-		"closed" : "HenrikNergaard 7/23/2017 12:37",
 		"initialize" : "HenrikNergaard 12/28/2017 18:05",
 		"primSetPosition:to:" : "HenrikNergaard 7/23/2017 12:37",
 		"primSize:" : "HenrikNergaard 7/23/2017 12:35",
-		"defaultBuffer" : "HenrikNergaard 12/28/2017 18:04"
+		"size" : "HenrikNergaard 7/23/2017 12:35",
+		"species" : "HenrikNergaard 7/23/2017 13:47"
 	},
 	"class" : {
 		"fileNamed:" : "HenrikNergaard 12/28/2017 18:23",
