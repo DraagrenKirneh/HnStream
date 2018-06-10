@@ -12,8 +12,7 @@ Metacello new
    load.
 ```
 
-
-# Usage 
+# Example 
 
 ```smalltalk
 | data | 
