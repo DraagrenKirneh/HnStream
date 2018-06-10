@@ -6,7 +6,9 @@ baseline: spec
 				
 		spec 
 			package: #'HnStream';
-			group: 'default' with: #('core');
-			group: 'core' with: #('HnStream')
+			package: #'HnStream-Tests';
+			group: 'default' with: #('core' 'tests');
+			group: 'core' with: #('HnStream');
+			group: 'tests' with: #('HnStream-Tests') 
 	
 	]
