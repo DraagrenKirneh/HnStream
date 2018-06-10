@@ -1,0 +1,1 @@
+binary writer implements special methods for encoding numbers and other elements into binary

@@ -8,6 +8,6 @@
 	"instvars" : [
 		"writer"
 	],
-	"name" : "HnDecoratorWriter",
+	"name" : "HnWrappedWriter",
 	"type" : "normal"
 }

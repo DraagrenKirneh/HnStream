@@ -1,6 +1,6 @@
 {
 	"commentStamp" : "",
-	"super" : "HnDecoratorWriter",
+	"super" : "HnWrappedWriter",
 	"category" : "HnStream-Writing",
 	"classinstvars" : [ ],
 	"pools" : [ ],

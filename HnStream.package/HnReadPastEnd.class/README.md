@@ -1,0 +1,1 @@
+Signals that a read was made past its end

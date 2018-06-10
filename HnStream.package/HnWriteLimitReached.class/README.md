@@ -1,0 +1,1 @@
+WriteLimitReached is signaled when a limited has reached its limit
