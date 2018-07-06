@@ -5,9 +5,9 @@ next: aNumber
 	
 	self ensureDistance: aNumber.
 	
-	array := source species new: aNumber.
+	array := Array new: aNumber.
 	
-	1 to: aNumber do: [ :ix | array at: ix put: self next ].
+	1 to: aNumber do: [ :ix | array basicAt: ix put: self next ].
 	
 	^ array	
 	 
