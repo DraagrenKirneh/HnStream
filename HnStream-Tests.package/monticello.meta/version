@@ -1,1 +1,2 @@
-(name 'HnStream-Tests-HenrikNergaard.1' message 'Move from tag to package' id '98f96eb7-af2a-0d00-bd09-36510b9a8032' date '10 June 2018' time '8:41:22.385304 pm' author 'HenrikNergaard' ancestors () stepChildren ())
+(name 'HnStream-Tests-HenrikNergaard.1532526133' message '' id 'faad14a1-b630-0d00-9753-e13e0efd5cf2' date '26 August 2018' time '1:27:21.906682 pm' author 'HenrikNergaard' ancestors ((name 'HnStream-Tests-HenrikNergaard.1532526132' message 'Add cString parsing
+' id '6a16d989-8a03-51b3-8192-1a16b22eb839' date '25 July 2018' time '3:42:12 pm' author 'HenrikNergaard' ancestors () stepChildren ())) stepChildren ())
